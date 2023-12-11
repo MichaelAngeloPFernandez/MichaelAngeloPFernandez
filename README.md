@@ -12,10 +12,11 @@ I'm passionate about coding and database management, with a knack for tackling c
 
 ## Certification
 
-- [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate]([Certification_Link_1](https://courses.cognitiveclass.ai/certificates/588a392f46ea47abba04f1e6c77298f4))
-- [Oracle Cloud Data Management 2023 Certified Foundations Associate]([Certification_Link_2](https://catalog-education.oracle.com/pls/certview/sharebadge?id=5E6E16A94080ADEF3BF7E35DC8A16ED253DA9279280F4678DC08CCB3E1B1EE2C))
-- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate]([Certification_Link_3](https://catalog-education.oracle.com/pls/certview/sharebadge?id=6AEFC927718C085EA35BDFC1C210740CF08539A3AF43B4A5711C6D3EEC1A2E68))
-- [SQL and Relational Databases 101]([Certification_Link_4](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D33614317A1563DBE687A89574FA94F57BBD1C8BFA60AA5EE5FF029A344F22EE))
+[certification_link1]: # "Hyperlink to Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate certification"
+[certification_link2]: # "Hyperlink to Oracle Cloud Data Management 2023 Certified Foundations Associate certification"
+[certification_link3]: # "Hyperlink to Oracle Cloud Infrastructure 2023 Certified Foundations Associate certification"
+[certification_link4]: # "[Hyperlink to SQL and Relational Databases 101 certification](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D33614317A1563DBE687A89574FA94F57BBD1C8BFA60AA5EE5FF029A344F22EE)"
+
 
 ## Skill Sets
 
