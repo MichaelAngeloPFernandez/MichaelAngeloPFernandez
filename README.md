@@ -33,7 +33,7 @@ I am Michael Angelo P. Fernandez, passionate about coding and equipped with stro
   - IBM DB2 Cloud
 
 - **Tools:**
-  - Lucidchart, Jaspersoft Studio, Eclipse, HTML
+  - Lucidchart, Jaspersoft Studio, Eclipse
 
 ## Contact Me
 
