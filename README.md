@@ -27,7 +27,7 @@ I am Michael Angelo P. Fernandez, passionate about coding and equipped with stro
 ## Skill Sets
 
 - **Programming:**
-  - Java, Javascript
+  - Java
 
 - **Databases:**
   - IBM DB2 Cloud
