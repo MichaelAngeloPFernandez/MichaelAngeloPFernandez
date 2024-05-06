@@ -24,6 +24,9 @@ I am Michael Angelo P. Fernandez, passionate about coding and equipped with stro
 - **SQL and Relational Databases 101**
   - [View Certification](https://courses.cognitiveclass.ai/certificates/588a392f46ea47abba04f1e6c77298f4)
 
+- **NOSQL and DBaaS 101**
+  - [View Certification](https://courses.cognitiveclass.ai/certificates/16302c04c68c4749bc81895410d40ad8) 
+
 ## Skill Sets
 
 - **Programming:**
