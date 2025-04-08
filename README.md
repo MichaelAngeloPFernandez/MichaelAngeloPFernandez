@@ -31,6 +31,11 @@ I am Michael Angelo P. Fernandez, passionate about coding and equipped with stro
 
 - **Programming:**
   - Java
+  - Python
+  - Php
+  - Html
+  - Css
+  - Bootstrap
 
 - **Databases:**
   - IBM DB2 Cloud
